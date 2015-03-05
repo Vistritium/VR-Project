@@ -32,3 +32,6 @@
 
 # Ignore save files
 /VR_Project/Saved/**
+
+# Ignore starter content files
+/VR_Project/Content/StarterContent/**
