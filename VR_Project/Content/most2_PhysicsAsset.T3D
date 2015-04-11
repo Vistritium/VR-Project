@@ -1,0 +1,390 @@
+Begin Object Class=PhysicsAsset Name="most2_PhysicsAsset"
+   Begin Object Class=BodySetup Name="BodySetup_10"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_11"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_12"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_13"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_14"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_15"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_16"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_17"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_18"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_19"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_20"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_21"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_22"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_23"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_24"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_25"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_26"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_27"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_28"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_29"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_30"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_5"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_6"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_7"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_8"
+   End Object
+   Begin Object Class=BodySetup Name="BodySetup_9"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_0"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_1"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_10"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_11"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_12"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_13"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_14"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_15"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_16"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_17"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_18"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_19"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_2"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_20"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_21"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_22"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_23"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_24"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_3"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_4"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_5"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_6"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_7"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_8"
+   End Object
+   Begin Object Class=PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_9"
+   End Object
+   Begin Object Name="BodySetup_10"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-3.534396),X=14.000000,Y=15.500000,Z=7.500000)),SphylElems=((Center=(X=0.699049,Y=0.633400,Z=-3.200145),Orientation=(X=-0.000098,Y=0.707107,Z=0.707107,W=-0.000098),Radius=3.454736,Length=12.701074)))
+      BoneName="Dummy001"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_11"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-3.494178),X=15.500000,Y=15.500000,Z=7.500000)),SphylElems=((Center=(X=-0.230696,Y=0.285862,Z=-3.199656),Orientation=(X=0.707107,Y=-0.000043,Z=-0.000043,W=0.707107),Radius=3.453635,Length=12.701072)))
+      BoneName="Dummy002"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_12"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-3.525329),X=13.000000,Y=15.000000,Z=7.500000)),SphylElems=((Center=(X=-1.853426,Y=-0.258583,Z=-3.199900),Orientation=(X=0.000098,Y=0.707107,Z=0.707107,W=0.000098),Radius=3.204736,Length=12.701075)))
+      BoneName="Dummy003"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_13"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-3.600875),X=24.500000,Y=21.500000,Z=7.500000)),SphylElems=((Center=(X=-0.500965,Y=-1.080320,Z=-3.200144),Orientation=(X=0.707107,Y=0.000000,Z=0.000000,W=0.707107),Radius=3.452754,Length=12.701073)))
+      BoneName="Dummy004"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_14"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-3.187575),X=23.500000,Y=21.000000,Z=7.500000)),SphylElems=((Center=(X=-1.210575,Y=-2.241195,Z=-3.199900),Orientation=(X=0.707107,Y=0.000000,Z=0.000000,W=0.707107),Radius=3.452754,Length=12.701072)))
+      BoneName="Dummy005"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_15"
+      AggGeom=(SphylElems=((Center=(X=-1.040861,Y=-1.877974,Z=-3.199901),Orientation=(X=0.000195,Y=0.707107,Z=0.707107,W=0.000195),Radius=3.456717,Length=12.701072)))
+      BoneName="Dummy006"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_16"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-3.437431),X=46.500000,Y=25.000000,Z=7.500000)),SphylElems=((Center=(X=-0.733953,Y=-1.535117,Z=-3.199657),Orientation=(X=-0.000195,Y=0.707107,Z=0.707107,W=-0.000195),Radius=3.456717,Length=12.701072)))
+      BoneName="Dummy007"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_17"
+      AggGeom=(SphylElems=((Center=(X=-0.108903,Y=-3.423949,Z=-3.200145),Orientation=(X=-0.000195,Y=0.707107,Z=0.707107,W=-0.000195),Radius=3.206716,Length=12.701072)))
+      BoneName="Dummy008"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_18"
+      AggGeom=(SphylElems=((Center=(X=-0.068695,Y=-2.150867,Z=-3.199656),Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=1.951071,Length=3.232000)))
+      BoneName="Dummy009"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_19"
+      AggGeom=(BoxElems=((Center=(X=7.934840,Y=-2.373230,Z=-3.733443),X=48.000000,Y=24.500000,Z=7.500000)),SphylElems=((Center=(X=-0.669769,Y=-3.053879,Z=-3.199900),Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=2.451071,Length=3.232000)))
+      BoneName="Dummy010"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_20"
+      AggGeom=(SphylElems=((Center=(X=-2.213237,Y=-2.440046,Z=-3.199656),Orientation=(X=0.000000,Y=0.707107,Z=0.707107,W=0.000000),Radius=3.452754,Length=12.701071)))
+      BoneName="Dummy011"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_21"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=-1.665668,Z=-3.514709),X=51.500000,Y=21.500000,Z=7.500000)),SphylElems=((Center=(X=-0.738001,Y=-3.287760,Z=-3.199900),Orientation=(X=0.707107,Y=-0.000056,Z=-0.000056,W=0.707107),Radius=3.453887,Length=12.701073)))
+      BoneName="Dummy012"
+      bDoubleSidedGeometry=True
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_22"
+      AggGeom=(SphylElems=((Center=(X=0.858351,Y=-2.843540,Z=-3.199657),Orientation=(X=-0.000065,Y=0.707107,Z=0.707107,W=-0.000065),Radius=3.454074,Length=12.701071)))
+      BoneName="Dummy013"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_23"
+      AggGeom=(SphylElems=((Center=(X=-5.024149,Y=-1.334778,Z=-3.200145),Orientation=(X=0.707107,Y=0.000000,Z=0.000000,W=0.707107),Radius=3.702755,Length=12.701071)))
+      BoneName="Dummy014"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_24"
+      AggGeom=(SphylElems=((Center=(X=-4.538096,Y=-1.021602,Z=-3.199900),Orientation=(X=0.707107,Y=0.000000,Z=0.000000,W=0.707107),Radius=3.452754,Length=12.701073)))
+      BoneName="Dummy015"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_25"
+      AggGeom=(SphylElems=((Center=(X=3.067642,Y=-2.723421,Z=-3.199656),Orientation=(X=0.707107,Y=-0.000163,Z=-0.000163,W=0.707107),Radius=3.706054,Length=12.701073)))
+      BoneName="Dummy016"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_26"
+      AggGeom=(SphylElems=((Center=(X=3.747330,Y=-2.362326,Z=-3.199656),Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=2.201071,Length=3.232000)))
+      BoneName="Dummy017"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_27"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=-2.045479,Z=-17.905439),X=7.500000,Y=40.500000,Z=36.500000)),SphylElems=((Center=(X=-0.703344,Y=-1.989223,Z=-20.364563),Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=4.881887,Length=33.568321)))
+      BoneName="Dummy018"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_28"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.283169,Z=-29.478199),X=14.000000,Y=15.500000,Z=61.500000)),SphylElems=((Center=(X=-0.689399,Y=0.186629,Z=-35.433002),Orientation=(X=0.000000,Y=-0.000000,Z=-0.707107,W=0.707107),Radius=7.952756,Length=35.787399)))
+      BoneName="Dummy019"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_29"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=-3.350669,Z=-15.728025),X=7.500000,Y=39.000000,Z=32.500000)),SphylElems=((Center=(X=-0.514147,Y=-3.189515,Z=-20.364563),Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=4.881889,Length=33.068321)))
+      BoneName="Dummy021"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_30"
+      AggGeom=(BoxElems=((Center=(X=-1.848305,Y=0.000000,Z=-13.591734),X=7.500000,Y=41.500000,Z=27.500000)),SphylElems=((Center=(X=-1.028760,Y=-1.171625,Z=-20.364563),Orientation=(X=-0.000000,Y=-0.000000,Z=-0.707107,W=0.707107),Radius=5.131886,Length=35.318321)))
+      BoneName="Dummy023"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_5"
+      AggGeom=(SphylElems=((Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=1.400000,Length=15.150000)))
+      BoneName="Dummy026"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_6"
+      AggGeom=(BoxElems=((Center=(X=-3.604793,Y=-0.000007,Z=-3.325277),Orientation=(X=-0.087156,Y=-0.000000,Z=0.000000,W=0.996195),X=44.000000,Y=18.500000,Z=7.500000),(Center=(X=26.304325,Y=-15.425854,Z=26.780706),Orientation=(X=0.173648,Y=-0.000000,Z=0.000000,W=0.984808),X=15.500000,Y=15.500000,Z=69.500000),(Center=(X=-32.778927,Y=-15.425951,Z=26.780670),Orientation=(X=0.173648,Y=-0.000000,Z=0.000000,W=0.984808),X=15.500000,Y=15.500000,Z=69.500000)),SphylElems=((Center=(X=-4.114530,Y=2.384523,Z=-6.366226),Orientation=(X=0.497998,Y=0.500504,Z=0.502002,W=0.499488),Radius=7.053398,Length=59.212418)))
+      BoneName="Dummy024"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_7"
+      AggGeom=(BoxElems=((Center=(X=5.620618,Y=-7.041281,Z=-3.450815),Orientation=(X=-0.087156,Y=0.000000,Z=0.000000,W=0.996195),X=43.000000,Y=19.500000,Z=7.500000),(Center=(X=-23.870949,Y=-19.330872,Z=26.203619),Orientation=(X=0.173649,Y=0.000000,Z=0.000000,W=0.984808),X=14.500000,Y=15.000000,Z=81.000000),(Center=(X=35.913780,Y=-19.330837,Z=26.203619),Orientation=(X=0.173649,Y=0.000000,Z=0.000000,W=0.984808),X=15.000000,Y=15.000000,Z=81.000000)),SphylElems=((Center=(X=5.431446,Y=-4.798960,Z=-7.588995),Orientation=(X=0.498435,Y=0.498559,Z=0.501561,W=0.501436),Radius=7.995258,Length=63.199322)))
+      BoneName="Dummy025"
+      bDoubleSidedGeometry=True
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_8"
+      AggGeom=(BoxElems=((Center=(X=1.163728,Y=-3.504333,Z=-16.854788),X=7.500000,Y=39.500000,Z=35.500000)),SphylElems=((Center=(X=-0.777391,Y=-3.099223,Z=-20.364563),Orientation=(X=-0.000000,Y=-0.000000,Z=-0.707107,W=0.707107),Radius=6.631889,Length=33.818321)))
+      BoneName="Dummy022"
+      bDoubleSidedGeometry=True
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="BodySetup_9"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=-24.085075),X=15.500000,Y=15.500000,Z=50.000000)),SphylElems=((Center=(X=0.022778,Y=0.265292,Z=-35.433002),Orientation=(X=0.000000,Y=0.000000,Z=-0.707107,W=0.707107),Radius=7.952758,Length=35.787399)))
+      BoneName="Dummy020"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_0"
+      DefaultInstance=(JointName="Dummy024",ConstraintBone1="Dummy024",ConstraintBone2="Dummy026",Pos2=(X=4.222412,Y=60.404202,Z=3.011542),PriAxis2=(X=1.000000,Y=-0.000000,Z=0.000000),SecAxis2=(X=0.000000,Y=0.950846,Z=-0.309665),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_1"
+      DefaultInstance=(JointName="Dummy025",ConstraintBone1="Dummy025",ConstraintBone2="Dummy026",Pos2=(X=5.823975,Y=-65.411842,Z=1.371707),PriAxis2=(X=-1.000000,Y=-0.000000,Z=0.000000),SecAxis2=(X=0.000000,Y=-0.971061,Z=-0.238830),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_10"
+      DefaultInstance=(JointName="Dummy007",ConstraintBone1="Dummy007",ConstraintBone2="Dummy026",Pos2=(X=1.023016,Y=1.517905,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_11"
+      DefaultInstance=(JointName="Dummy008",ConstraintBone1="Dummy008",ConstraintBone2="Dummy026",Pos2=(X=17.221848,Y=3.406738,Z=6.400146),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_12"
+      DefaultInstance=(JointName="Dummy009",ConstraintBone1="Dummy009",ConstraintBone2="Dummy026",Pos2=(X=8.807264,Y=-17.915087,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_13"
+      DefaultInstance=(JointName="Dummy010",ConstraintBone1="Dummy010",ConstraintBone2="Dummy026",Pos2=(X=-7.261333,Y=-17.012074,Z=6.399902),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_14"
+      DefaultInstance=(JointName="Dummy011",ConstraintBone1="Dummy011",ConstraintBone2="Dummy026",Pos2=(X=-14.180738,Y=-37.569801,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_15"
+      DefaultInstance=(JointName="Dummy012",ConstraintBone1="Dummy012",ConstraintBone2="Dummy026",Pos2=(X=1.027063,Y=-36.624058,Z=6.399902),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_16"
+      DefaultInstance=(JointName="Dummy013",ConstraintBone1="Dummy013",ConstraintBone2="Dummy026",Pos2=(X=16.254593,Y=-37.166306,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_17"
+      DefaultInstance=(JointName="Dummy014",ConstraintBone1="Dummy014",ConstraintBone2="Dummy026",Pos2=(X=-19.514465,Y=-18.731174,Z=6.400146),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_18"
+      DefaultInstance=(JointName="Dummy015",ConstraintBone1="Dummy015",ConstraintBone2="Dummy026",Pos2=(X=-20.000519,Y=20.882687,Z=6.399902),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_19"
+      DefaultInstance=(JointName="Dummy016",ConstraintBone1="Dummy016",ConstraintBone2="Dummy026",Pos2=(X=22.170959,Y=22.584505,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_2"
+      DefaultInstance=(JointName="Dummy022",ConstraintBone1="Dummy022",ConstraintBone2="Dummy026",Pos2=(X=-26.234375,Y=30.224623,Z=40.729248),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_20"
+      DefaultInstance=(JointName="Dummy017",ConstraintBone1="Dummy017",ConstraintBone2="Dummy026",Pos2=(X=21.491272,Y=-17.703627,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_21"
+      DefaultInstance=(JointName="Dummy018",ConstraintBone1="Dummy018",ConstraintBone2="Dummy026",Pos2=(X=28.285461,Y=-25.534178,Z=40.729248),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_22"
+      DefaultInstance=(JointName="Dummy019",ConstraintBone1="Dummy019",ConstraintBone2="Dummy026",Pos2=(X=29.297348,Y=-0.241210,Z=53.288086),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_23"
+      DefaultInstance=(JointName="Dummy021",ConstraintBone1="Dummy021",ConstraintBone2="Dummy026",Pos2=(X=-26.497620,Y=-24.485052,Z=40.729248),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_24"
+      DefaultInstance=(JointName="Dummy023",ConstraintBone1="Dummy023",ConstraintBone2="Dummy026",Pos2=(X=28.610870,Y=28.448189,Z=40.729248),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_3"
+      DefaultInstance=(JointName="Dummy020",ConstraintBone1="Dummy020",ConstraintBone2="Dummy026",Pos2=(X=-28.060379,Y=-0.608718,Z=53.288086),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_4"
+      DefaultInstance=(JointName="Dummy001",ConstraintBone1="Dummy001",ConstraintBone2="Dummy026",Pos2=(X=16.413895,Y=39.119343,Z=6.400146),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_5"
+      DefaultInstance=(JointName="Dummy002",ConstraintBone1="Dummy002",ConstraintBone2="Dummy026",Pos2=(X=0.519758,Y=39.466881,Z=6.399658),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_6"
+      DefaultInstance=(JointName="Dummy003",ConstraintBone1="Dummy003",ConstraintBone2="Dummy026",Pos2=(X=-14.540550,Y=40.011326,Z=6.399902),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_7"
+      DefaultInstance=(JointName="Dummy004",ConstraintBone1="Dummy004",ConstraintBone2="Dummy026",Pos2=(X=-7.430138,Y=20.941404,Z=6.400146),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_8"
+      DefaultInstance=(JointName="Dummy005",ConstraintBone1="Dummy005",ConstraintBone2="Dummy026",Pos2=(X=9.949144,Y=22.102280,Z=6.399902),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_9"
+      DefaultInstance=(JointName="Dummy006",ConstraintBone1="Dummy006",ConstraintBone2="Dummy026",Pos2=(X=-15.205410,Y=1.860763,Z=6.399902),AngularSwing1Motion=ACM_Limited,AngularTwistMotion=ACM_Limited,AngularSwing2Motion=ACM_Limited)
+   End Object
+   PreviewSkeletalMesh=/Game/Most/most2.most2
+   BodySetup(0)=BodySetup'BodySetup_5'
+   BodySetup(1)=BodySetup'BodySetup_6'
+   BodySetup(2)=BodySetup'BodySetup_7'
+   BodySetup(3)=BodySetup'BodySetup_8'
+   BodySetup(4)=BodySetup'BodySetup_9'
+   BodySetup(5)=BodySetup'BodySetup_10'
+   BodySetup(6)=BodySetup'BodySetup_11'
+   BodySetup(7)=BodySetup'BodySetup_12'
+   BodySetup(8)=BodySetup'BodySetup_13'
+   BodySetup(9)=BodySetup'BodySetup_14'
+   BodySetup(10)=BodySetup'BodySetup_15'
+   BodySetup(11)=BodySetup'BodySetup_16'
+   BodySetup(12)=BodySetup'BodySetup_17'
+   BodySetup(13)=BodySetup'BodySetup_18'
+   BodySetup(14)=BodySetup'BodySetup_19'
+   BodySetup(15)=BodySetup'BodySetup_20'
+   BodySetup(16)=BodySetup'BodySetup_21'
+   BodySetup(17)=BodySetup'BodySetup_22'
+   BodySetup(18)=BodySetup'BodySetup_23'
+   BodySetup(19)=BodySetup'BodySetup_24'
+   BodySetup(20)=BodySetup'BodySetup_25'
+   BodySetup(21)=BodySetup'BodySetup_26'
+   BodySetup(22)=BodySetup'BodySetup_27'
+   BodySetup(23)=BodySetup'BodySetup_28'
+   BodySetup(24)=BodySetup'BodySetup_29'
+   BodySetup(25)=BodySetup'BodySetup_30'
+   BoundsBodies(0)=0
+   BoundsBodies(1)=1
+   BoundsBodies(2)=2
+   BoundsBodies(3)=3
+   BoundsBodies(4)=4
+   BoundsBodies(5)=5
+   BoundsBodies(6)=6
+   BoundsBodies(7)=7
+   BoundsBodies(8)=8
+   BoundsBodies(9)=9
+   BoundsBodies(10)=10
+   BoundsBodies(11)=11
+   BoundsBodies(12)=12
+   BoundsBodies(13)=13
+   BoundsBodies(14)=14
+   BoundsBodies(15)=15
+   BoundsBodies(16)=16
+   BoundsBodies(17)=17
+   BoundsBodies(18)=18
+   BoundsBodies(19)=19
+   BoundsBodies(20)=20
+   BoundsBodies(21)=21
+   BoundsBodies(22)=22
+   BoundsBodies(23)=23
+   BoundsBodies(24)=24
+   BoundsBodies(25)=25
+   ConstraintSetup(0)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_0'
+   ConstraintSetup(1)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_1'
+   ConstraintSetup(2)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_2'
+   ConstraintSetup(3)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_3'
+   ConstraintSetup(4)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_4'
+   ConstraintSetup(5)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_5'
+   ConstraintSetup(6)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_6'
+   ConstraintSetup(7)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_7'
+   ConstraintSetup(8)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_8'
+   ConstraintSetup(9)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_9'
+   ConstraintSetup(10)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_10'
+   ConstraintSetup(11)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_11'
+   ConstraintSetup(12)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_12'
+   ConstraintSetup(13)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_13'
+   ConstraintSetup(14)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_14'
+   ConstraintSetup(15)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_15'
+   ConstraintSetup(16)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_16'
+   ConstraintSetup(17)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_17'
+   ConstraintSetup(18)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_18'
+   ConstraintSetup(19)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_19'
+   ConstraintSetup(20)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_20'
+   ConstraintSetup(21)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_21'
+   ConstraintSetup(22)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_22'
+   ConstraintSetup(23)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_23'
+   ConstraintSetup(24)=PhysicsConstraintTemplate'PhysicsConstraintTemplate_24'
+End Object

@@ -1,0 +1,108 @@
+Begin Object Class=Material Name="MatrixMaterial2"
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'MatrixMaterial2:MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'MatrixMaterial2:MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=17E8B21E44E40CAF7AAACE90A03CC97D
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionMultiply'MatrixMaterial2:MaterialExpressionMultiply_0')
+      B=(Expression=MaterialExpressionScalarParameter'MatrixMaterial2:MaterialExpressionScalarParameter_2')
+      MaterialExpressionEditorX=208
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=64E0850F4A895D2670B88884A84572FE
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1.000000
+      ParameterName="Rough"
+      ExpressionGUID=AFED0BB34CE3E9CFB53E6AAA0106FE16
+      MaterialExpressionEditorX=160
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=66522E334F15E719DBFBBAB8931DBD54
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1.000000
+      ParameterName="Metal"
+      ExpressionGUID=1653B7364497B375698B23896E52109A
+      MaterialExpressionEditorX=160
+      MaterialExpressionEditorY=96
+      MaterialExpressionGuid=C731DBE046DBD039BC46CD8D78D1A588
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=6.000000
+      ParameterName="Brightness"
+      ExpressionGUID=7D966AE1470AEDD4DC53A6859CDA0DC2
+      MaterialExpressionEditorX=32
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=BAE2EA5B483BE0652B191998E4EE45C9
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/Most/MostosUV.MostosUV'
+      MaterialExpressionEditorX=-352
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=6E9760DC4A6DE1C7AC6A7DBB401B0C0C
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      ParameterName="Base"
+      ExpressionGUID=4D75EEC343E078172B44978609C81663
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=97E439EE4EEAB6D9DB879D81D828D5FC
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      DefaultValue=(R=0.000000,G=0.919942,B=1.000000,A=0.000000)
+      ExpressionGUID=C7EBA4184DF9365A40B669A9E77494DC
+      MaterialExpressionEditorX=-352
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=E1D913794A7405A4303EAD9447023375
+      Material=Material'MatrixMaterial2'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',OutputIndex=4,Mask=1,MaskA=1)
+   Metallic=(Expression=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1')
+   Roughness=(Expression=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_0')
+   EmissiveColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_1')
+   bUsedWithSkeletalMesh=True
+   EditorX=400
+   EditorY=-48
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   Expressions(1)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1'
+   Expressions(2)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_0'
+   Expressions(3)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Expressions(4)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   Expressions(5)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_1'
+   Expressions(6)=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   Expressions(7)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_2'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=2F4C9B5F4090243B687BD9B49A1DB6D5
+   ReferencedTextureGuids(0)=8BEEB97940B32EAEB69F52917432A72D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=AB08B71843D173AC4C4363843904212C
+End Object
