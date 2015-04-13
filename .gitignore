@@ -28,7 +28,10 @@
 /Engine/Plugins/**/Intermediate/**
 
 # Ignore binary files...
-/VR_Project/Binaries/**
+/VR_Project/Binaries/Win64/*
+!/VR_Project/Binaries/Win64/UE4Editor-VR_Project.dll
+!/VR_Project/Binaries/Win64/UE4Editor-VR_Project.pdb
+
 
 # Ignore save files
 /VR_Project/Saved/**
